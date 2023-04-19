@@ -1,0 +1,66 @@
+{
+  "MaxX": 100,
+  "MaxY": 100,
+  "Creatures": [
+    {
+      "Type": "Dragon",
+      "Name": "Steve",
+      "Position": {
+        "X": 15,
+        "Y": 14
+      },
+      "Hp": 100,
+      "AttackItems": [],
+      "DefenceItems": [],
+      "isDead": false
+    },
+    {
+      "Type": "Basilisk",
+      "Name": "Bob",
+      "Position": {
+        "X": 23,
+        "Y": 23
+      },
+      "Hp": 100,
+      "AttackItems": [],
+      "DefenceItems": [],
+      "isDead": false
+    }
+  ],
+  "AttackItems": [
+    {
+      "Name": "sword",
+      "Hitpoint": 10,
+      "Position": {
+        "X": 23,
+        "Y": 25
+      },
+      "Range": 5,
+      "IsLootable": true,
+      "IsRemoveable": true
+    },
+    {
+      "Name": "dagger",
+      "Hitpoint": 10,
+      "Position": {
+        "X": 15,
+        "Y": 15
+      },
+      "Range": 5,
+      "IsLootable": true,
+      "IsRemoveable": true
+    }
+  ],
+  "DefenceItems": [
+    {
+      "Name": "Chestplate",
+      "ReduceHitpoint": 70,
+      "Position": {
+        "X": 12,
+        "Y": 12
+      },
+      "IsLootable": true,
+      "IsRemoveable": true
+    }
+  ]
+}
