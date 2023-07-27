@@ -16,7 +16,7 @@ To use this turn-based 2D game framework, follow the steps below:
 
 1. Clone the repository to your local machine using the following command:
 
-   `git clone https://github.com/your-username/mandatoryAssignmentAdvancedC#.git`
+   `git clone https://github.com/your-username/TurnBasedGameFramework.git`
 
 2. Review the provided classes to understand the framework's structure and functionalities. Code comments are included to guide you through the implementation.
 
